@@ -11,6 +11,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^6.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barkleylikecharles/pizza-hunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/barkleylikecharles/pizza-hunt/issues"
+  },
+  "homepage": "https://github.com/barkleylikecharles/pizza-hunt#readme"
 }
